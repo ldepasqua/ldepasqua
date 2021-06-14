@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **companies that create value for customers**
+- 👯 I’m looking to collaborate with **companies that create value for customers**
 
 - 👨‍💻 All of my projects are available at [https://ldepasqua-portfolio.web.app/#portfolio](https://ldepasqua-portfolio.web.app/#portfolio)
 
